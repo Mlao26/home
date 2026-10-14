@@ -231,6 +231,20 @@ cards:
     tags: 
       - text: 形策2
         class: tag-category
+  - ddl: 2026-10-09
+    title: 计算机学院2026年校运会本科生运动员招募
+    detail: 报名参加即可获得：强健的体魄、喜欢运动的朋友、2分竞赛赋分、1-4次课外锻炼打卡次数，若获奖还有二课分！名额有限，不要犹豫！（具体项目见问卷介绍）
+    href: https://v.wjx.cn/vm/hn3i6jC.aspx
+    tags: 
+      - text: 文体
+        class: tag-category
+  - ddl: 2026-10-18
+    title: 计算机学院2026年校运会本科生志愿者招募
+    detail: 志愿者将协助学院做好运动员检录、后勤保障、物资管理、现场加油等工作。欢迎热心、负责的你加入，一起为计算机学院的运动健儿们保驾护航！志愿者将获得相应志愿者小时数及综素加分（具体以学院规定为准）。
+    href: https://v.wjx.cn/vm/YDnauKQ.aspx
+    tags: 
+      - text: 文体
+        class: tag-category
 ---
 
 !!! note 通知

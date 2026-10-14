@@ -110,6 +110,13 @@ cards:
     href: https://v.wjx.cn/vm/tAbKGG9.aspx
     tags:
       - text: 读研深造
+        class: tag-category 
+  - ddl: 2026-09-30
+    title: 关于填写国庆去向的通知    
+    detail: 目前仍有100余位同学未填写国庆去向统计，请尽快填写。目前仍有100余位同学未填写国庆去向统计，请尽快填写。
+    href: https://form.zju.edu.cn/#/dform/genericForm/kAG9Jr5F
+    tags:
+      - text: 统计
         class: tag-category
 ---
 
