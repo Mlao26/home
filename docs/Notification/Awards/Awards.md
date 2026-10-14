@@ -167,6 +167,13 @@ cards:
         class: tag-category
       - text: 2022级
         class: tag-target
+  - ddl: 2026-10-07
+    title: 关于国家奖学金申报的通知
+    detail: 填写附件一申请表，并发邮件。具体通知内容请点击右侧链接
+    href: http://cspo.zju.edu.cn/2026/0930/c27183a3210758/page.htm
+    tags: 
+      - text: 评奖评优
+        class: tag-category
 ---
 
 !!! note 通知
