@@ -146,6 +146,48 @@ cards:
     tags:
       - text: 培训
         class: tag-category                   
+  - ddl: 2026-10-14
+    title: 考研择校&时间规划分享会
+    detail: 为帮助大家更好地明确考研目标、掌握科学的备考方法，一支部特举办本次考研择校与时间规划分享会，活动将在【10月14日19:00】于钉钉群线上举行，特邀具有丰富择校备考经验的王道资深教师和考研前辈学长为大家分享择校信息差、冲刺备考时间线安排等经验，请有意向参加的同学点击下方链接加入钉钉群，欢迎大家参加！
+    href: https://qr.dingtalk.com/action/joingroup?code=v1,k1,zKYD72XA6xxtiqwVrCMpEDhLUp0gEVeHYX35CACHtPqdR7ksupjDEA==&_dt_no_comment=1&origin=1
+    tags: 
+      - text: 考研
+        class: tag-category
+  - ddl: 2026-10-16
+    title: 读研深造现场咨询会
+    detail: 为帮助更多本科学子了解读研深造相关信息、明确未来目标，研究生院将联合各学院（系）在紫金港校区举办现场咨询会。各院系咨询介绍包括研招政策、研招流程、学科专业、历年情况、奖助政策、国际交流、就业前景等。活动时间：2026年10月16日（周五）12：00-14：00。活动地点：紫金港校区西区尧坤楼二楼大厅。报名链接：
+    href: https://v.wjx.cn/vm/tAbKGG9.aspx
+    tags: 
+      - text: 读研深造
+        class: tag-category
+  - ddl: 2026-10-19
+    title: 巴黎政治大学宣讲会
+    detail: 巴黎政治大学宣讲会将于2026年10月19日（周一）16:00在紫金港东1A-215举办，主要面向全日制在读本科生及研究生，详见：
+    href: https://mp.weixin.qq.com/s/LowQeuX7Uf3QUGJ9-qscGA
+    tags: 
+      - text: 宣讲会
+        class: tag-category
+  - ddl: 2026-10-20
+    title: 瑞典皇家理工学院“3+2”本硕联合培养项目宣讲会
+    detail: 瑞典皇家理工学院“3+2”本硕联合培养项目宣讲会10月20日（周二）13:30在玉泉校区李达三楼223室举办，主要面向全日制在读本科生，有意向参加“3+2”本硕联合培养项目的同学，详见：
+    href: https://mp.weixin.qq.com/s/uGsWmO3RB5ImGGN_uvnVWQ
+    tags: 
+      - text: 宣讲会
+        class: tag-category
+  - ddl: 2026-10-19
+    title: 中国科学院工业人工智能研究所2027研究生招生宣讲会
+    detail: 中国科学院工业人工智能研究所2027研究生招生宣讲将于下周一（10月19日）晚于玉泉校区曹光彪主楼413举行，欢迎自动化、控制、电子信息等专业优秀本科生关注，特别是27届准备考研的同学。
+    href: https://piaw6bgb.jsjform.com/f/UQfldP
+    tags: 
+      - text: 研究生招生，宣讲会
+        class: tag-category
+  - ddl: 2026-10-25
+    title: 浙客松・AI+X 破界黑客松赛事报名
+    detail: 【赛事报名｜浙客松・AI+X 破界黑客松】总奖池 27500 元▪10.13 天猫初赛 【线上开启，自由命题】▪10.18 华为初赛 【线下开启，企业命题】▪10.19‑23 线上复赛▪10.25 线下决赛 10.18开设技术论坛，邀请CTO与学者分享10.25开设创业论坛，邀请各大资本创始人分享。添加拓浙AI小助手，邀请进群：Tuozheai123。备注：姓名➕专业➕年级。报名网站：
+    href: https://tuotuzju.com/hackathon/2
+    tags: 
+      - text: 研究生招生，宣讲会
+        class: tag-category
 ---
 
 !!! note 通知
