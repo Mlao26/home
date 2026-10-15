@@ -118,6 +118,34 @@ cards:
     tags:
       - text: 统计
         class: tag-category
+  - ddl: 2026-11-22
+    title: 第二届 Global Sustainability Challenge (GSC，可持续发展全球挑战赛)报名
+    detail: 区域赛将于2027年2-3月分别在香港科技大学(亚太)、印度理工学院孟买分校(南亚)、慕尼黑工业大学(欧非)、斯坦福大学(北美)、圣保罗州立大学(南美)举行。全球总决赛将于2027年5月在浙江大学举办。两大主题： 1.可持续能源 Sustainable Energy; 2.适应与韧性Adaptation& Resilience (水; 粮食韧性;高温韧性)欢迎感兴趣的同学组队参加。和全球青年一起，向未来作答！
+    href: https://mp.weixin.qq.com/s/l05rRvI1sQ2Joft3kRKegg
+    tags:
+      - text: 竞赛
+        class: tag-category 
+  - ddl: 2026-09-16
+    title: 2026年华为网络安全专场活动报名
+    detail: 时间：9月16日（周三）15:00起；地点：浙大玉泉校区曹光彪主楼142
+    href: https://v.wjx.cn/vm/mCszUyz.aspx
+    tags:
+      - text: 科研活动
+        class: tag-category  
+  - ddl: 2026-09-19
+    title: 关于2026年度选拔优秀学生到学院团委实践锻炼的通知
+    detail: 具体通知内容请点击右侧链接
+    href: https://mp.weixin.qq.com/s/JWKtIH7WiuBN6rLDoFhoYw
+    tags:
+      - text: 实践锻炼选拔
+        class: tag-category 
+  - ddl: 2026-09-18
+    title: 浙大-华为CANN启航营
+    detail: 欢迎感兴趣的同学报名
+    href: /home/Notification/Research/image/ZJUHUAWEICANN.png
+    tags:
+      - text: 培训
+        class: tag-category                   
 ---
 
 !!! note 通知

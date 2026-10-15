@@ -50,7 +50,21 @@ cards:
     href: http://cspo.zju.edu.cn/2026/0514/c86671a3162586/page.htm
     tags: 
       - text: 选课
-        class: tag-category        
+        class: tag-category 
+  - ddl: 2026-10-04
+    title: 缓考课程考试申请权限已开放
+    detail: 有过缓考课程的学生，可在10月4日前，在本科教学管理信息服务平台提交秋学期、秋冬长学期课程的缓考考试安排。逾期无法提交。提醒已发布在本科生院网站、本科教学管理信息服务平台，详见《关于缓考考试申请的温馨提醒》
+    href: https://bksy.zju.edu.cn/2026/0916/c28337a3203668/page.psp
+    tags: 
+      - text: 缓考
+        class: tag-category       
+  - ddl: 
+    title: 紫金港校区计算机学院课程本轮补选已处理完毕
+    detail: 26-27秋冬学期紫金港校区计算机学院课程本轮补选已处理完毕，请及时登录选课系统核对个人课表，如有问题，可通过钉钉联系，并提供以下信息：学号、姓名、课程名称及任课教师等信息。
+    href: 
+    tags: 
+      - text: 补选
+        class: tag-category               
 ---
 
 !!! note 通知

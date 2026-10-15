@@ -173,6 +173,25 @@ cards:
         class: tag-category
       - text: 2024，2023级
         class: tag-target=======
+  - ddl: 2026-10-09
+    title: 关于评选本科生2026年度港澳及华侨学生奖学金、台湾学生奖学金的通知
+    detail: 具体通知内容请点击右侧链接
+    href: https://webplus.zju.edu.cn/_s154/2026/0914/c53397a3202578/page.psp
+    tags:
+      - text: 奖学金
+        class: tag-category
+      - text: 本科生
+        class: tag-target   
+  - ddl: 2026-10-14
+    title: 关于2026-2027学年本科生校园地国家助学贷款申请的通知
+    detail: 10月14日前申请，并加群。具体请看通知链接
+    href: http://www.xgb.zju.edu.cn/2026/0915/c53400a3203337/page.psp
+    tags:
+      - text: 助学贷款
+        class: tag-category
+      - text: 本科生
+        class: tag-target          
+---
 
 ---
 !!! note 通知
