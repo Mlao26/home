@@ -172,7 +172,8 @@ cards:
       - text: 评奖评优
         class: tag-category
       - text: 2024，2023级
-        class: tag-target  - ddl: 2026-10-09
+        class: tag-target  
+      - ddl: 2026-10-09
     title: 关于评选本科生2026年度港澳及华侨学生奖学金、台湾学生奖学金的通知
     detail: 具体通知内容请点击右侧链接
     href: https://webplus.zju.edu.cn/_s154/2026/0914/c53397a3202578/page.psp
