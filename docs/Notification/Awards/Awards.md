@@ -190,7 +190,6 @@ cards:
         class: tag-category
       - text: 本科生
         class: tag-target          
-=======
   - ddl: 2026-10-14
     title: 【本科评奖评优】浙江大学一二三等奖学金申请
     detail: 【本科评奖评优】浙江大学一二三等奖学金申请已发布（10月14日24：00前，eta申请）。通知：
