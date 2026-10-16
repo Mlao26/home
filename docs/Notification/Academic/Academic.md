@@ -1,6 +1,15 @@
 ---
 cards:
   - ddl:
+    title: 竺院游泳测试通过情况自查提醒
+    detail: 根据培养方案要求，竺院平台学生（含竺院混合班及图灵班学生）须完成“竺院游泳测试”必修课程。请登录毕业自审系统，在军体类模块查询是否已经通过。右侧为培养方案相关说明截图。
+    href: /home/Notification/Academic/image/20261009Swimming.png
+    tags:
+      - text: 培养方案
+        class: tag-category
+      - text: 竺院平台学生
+        class: tag-target
+  - ddl:
     title: 2027年全国硕士研究生招生考试网上报名提醒
     detail: 2027年全国硕士研究生招生考试网上报名即将开始，请有意向报考的同学关注报名安排，具体信息见推文。
     href: https://mp.weixin.qq.com/s/8IamxsrWduBTmnfiHyv-jw

@@ -1,6 +1,15 @@
 ---
 cards:
   - ddl:
+    title: 计算机学院本科生羽毛球俱乐部纳新
+    detail: 面向计算机学院、人工智能学院及竺可桢学院相关专业的本科生，水平不限。本学期预计举办面向全院本科生的趣味比赛；有意参加院队的同学可联系负责人了解加入事宜。负责人微信：huangzhenhua0913。点击右侧查看俱乐部微信群二维码，图片标注有效至10月16日；如二维码失效，请联系负责人。
+    href: /home/Notification/Growth/image/20261011Badminton.jpg
+    tags:
+      - text: 文体活动
+        class: tag-category
+      - text: 本科生
+        class: tag-target
+  - ddl:
     title: 2026年浙江大学第三期心理促进训练营
     detail: 心理中心面向所有学生免费开放正念冥想、沙盘艺术、卉心园艺等心理活动，活动长期开放，本科生每次参加可获二课分，具体安排见通知。
     href: http://www.xgb.zju.edu.cn/2026/0924/c53018a3208845/page.psp
