@@ -18,7 +18,7 @@ cards:
         class: tag-category
       - text: 二课
         class: tag-category
-  - ddl:
+  - ddl: 2026-10-10
     title: 世界精神卫生日心理健康提醒
     detail: 10月10日是世界精神卫生日，请同学们关注心理健康、做好自我关怀，有需要可联系辅导员谈心，相关推文见右侧链接。
     href: https://mp.weixin.qq.com/s/9hD6i5vW4YkVau5TeME4hw
