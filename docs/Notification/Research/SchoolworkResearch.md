@@ -1,5 +1,37 @@
 ---
 cards:
+  - ddl:
+    title: 2026紫金创业元空间—元创计划启动
+    detail: 欢迎有意向举办创新创业活动、共建双创生态的创意团体、学生组织社团等报名入驻，也欢迎各阶段创业或创赛项目报名。后续将根据入驻情况，通过活动举办激励、科创训练计划、创新创业奖学金等方式给予资金支持，并提供创业陪跑和辅导。
+    href: https://mp.weixin.qq.com/s/mcctwJVeJRR8Svg22yGzTw?scene=1
+    tags:
+      - text: 创新创业
+        class: tag-category
+  - ddl: 2026-10-14
+    title: 哥伦比亚大学工学院硕博项目线下宣讲会
+    detail: 时间：10月14日（周三）13:15-14:10；地点：紫金港东1A-215。主要面向毕业后有意出国深造的全日制在读本科生及研究生，欢迎感兴趣的同学参加。
+    href: https://mp.weixin.qq.com/s/E1QTwjkctcHV7il1c0d1zw
+    tags:
+      - text: 留学深造
+        class: tag-category
+      - text: 招生宣讲
+        class: tag-category
+  - ddl:
+    title: 浙江大学校园AI创新应用大赛启动
+    detail: 由浙江大学信息技术中心主办的校园AI创新应用大赛正式启动，获奖作品设有奖金和会员权益等，欢迎感兴趣的同学报名参赛。
+    href: https://mp.weixin.qq.com/s/sQP6_kp7w_tWHv71H8Dfcg
+    tags:
+      - text: 竞赛
+        class: tag-category
+      - text: 人工智能
+        class: tag-category
+  - ddl:
+    title: 玉泉校区邵科馆食堂全新开放
+    detail: 玉泉校区邵科馆全新开放食堂，欢迎各位师生用餐，具体信息见推文。
+    href: https://mp.weixin.qq.com/s/IaJQ8wxp0y8uUPO36qzUIA
+    tags:
+      - text: 校园信息
+        class: tag-category
   - ddl: 2025-12-19
     title: 2025年CMU暑研分享会
     detail: 本周五（12月19日）16：30，地点：紫金港研究生楼-305(留学生餐厅附近），欢迎有兴趣的同学参加。
@@ -104,13 +136,6 @@ cards:
     tags:
       - text: 求是大讲堂
         class: tag-category
-  - ddl: 2026-10-16
-    title: 研究生院将联合各学院（系）在紫金港校区举办现场咨询会
-    detail: 为帮助更多本科学子了解读研深造相关信息、明确未来目标，研究生院将联合各学院（系）在紫金港校区举办现场咨询会。各院系咨询介绍包括研招政策、研招流程、学科专业、历年情况、奖助政策、国际交流、就业前景等。活动时间：2026年10月16日（周五）12：00-14：00。活动地点：紫金港校区西区尧坤楼二楼大厅。
-    href: https://v.wjx.cn/vm/tAbKGG9.aspx
-    tags:
-      - text: 读研深造
-        class: tag-category 
   - ddl: 2026-09-30
     title: 关于填写国庆去向的通知    
     detail: 目前仍有100余位同学未填写国庆去向统计，请尽快填写。目前仍有100余位同学未填写国庆去向统计，请尽快填写。

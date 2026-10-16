@@ -1,5 +1,14 @@
 ---
 cards:
+  - ddl: 2026-10-11
+    title: 2027届毕业生综合双选会
+    detail: 2027届毕业生综合双选会将于10月11日13:30启动，请有意向直接就业的同学关注，具体安排见推文。
+    href: https://mp.weixin.qq.com/s/QYneRJVpQcvUo8frFp3Rug
+    tags:
+      - text: 就业
+        class: tag-category
+      - text: 2027届
+        class: tag-target
   - ddl: 2025-05-27
     title: ”计路同行“暑假社会实践活动
     detail: 即日起至2025年5月27日23:59开始报名

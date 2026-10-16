@@ -1,5 +1,28 @@
 ---
 cards:
+  - ddl:
+    title: 2026年浙江大学第三期心理促进训练营
+    detail: 心理中心面向所有学生免费开放正念冥想、沙盘艺术、卉心园艺等心理活动，活动长期开放，本科生每次参加可获二课分，具体安排见通知。
+    href: http://www.xgb.zju.edu.cn/2026/0924/c53018a3208845/page.psp
+    tags:
+      - text: 心理健康
+        class: tag-category
+      - text: 二课
+        class: tag-category
+  - ddl:
+    title: 世界精神卫生日心理健康提醒
+    detail: 10月10日是世界精神卫生日，请同学们关注心理健康、做好自我关怀，有需要可联系辅导员谈心，相关推文见右侧链接。
+    href: https://mp.weixin.qq.com/s/9hD6i5vW4YkVau5TeME4hw
+    tags:
+      - text: 心理健康
+        class: tag-category
+  - ddl: 2026-10-12
+    title: 【形策二】学校“三育人”先进颁奖晚会观众招募
+    detail: 晚会于10月12日（周一）19:00在紫金港校区小剧场举行，现向学院征集10名观众，有意向参加的同学请填写问卷。
+    href: https://v.wjx.cn/vm/eje15cA.aspx#
+    tags:
+      - text: 形策2
+        class: tag-category
   - ddl: 2025-11-28
     title: 【形策2】"立报国强国大志向  做挺膺担当奋斗者"浙江英烈文化思政课浙江大学专场活动
     detail: 开始时间：11月28日15：00 地点：永谦剧场 参加活动可计形策2一分 报名链接见箭头

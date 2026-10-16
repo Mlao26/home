@@ -1,5 +1,12 @@
 ---
 cards:
+  - ddl:
+    title: 2027年全国硕士研究生招生考试网上报名提醒
+    detail: 2027年全国硕士研究生招生考试网上报名即将开始，请有意向报考的同学关注报名安排，具体信息见推文。
+    href: https://mp.weixin.qq.com/s/8IamxsrWduBTmnfiHyv-jw
+    tags:
+      - text: 考研
+        class: tag-category
   - ddl: 
     title: 2025-2026学年春夏学期本科课程选课通知（第一轮）
     detail: 开始时间：12月19日9：00-12月21日24：00，选课结果可在12月23日晚查看，请严格按照规定时间和选课要求进行，学校选课具体通知请戳箭头

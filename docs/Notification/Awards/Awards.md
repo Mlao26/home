@@ -1,5 +1,41 @@
 ---
 cards:
+  - ddl: 2026-10-12
+    title: 关于做好2026年国家助学金评选工作的通知
+    detail: 请于10月12日17:00前在eta提交申请，并提交纸质版材料，具体要求见通知。
+    href: http://cspo.zju.edu.cn/2026/1008/c27184a3211925/page.htm
+    tags:
+      - text: 本科生资助
+        class: tag-category
+      - text: 助学金
+        class: tag-category
+  - ddl: 2026-10-12
+    title: 关于做好2026年国家励志奖学金评选工作的通知
+    detail: 请于10月12日17:00前在eta提交申请，并提交纸质版材料，具体要求见通知。
+    href: http://cspo.zju.edu.cn/2026/1008/c27184a3211927/page.htm
+    tags:
+      - text: 评奖评优
+        class: tag-category
+      - text: 本科生资助
+        class: tag-category
+  - ddl: 2026-10-18
+    title: 关于做好2026-2027学年秋冬学期校内无息借款相关工作的通知
+    detail: 请有需要的同学于10月18日24:00前在eta提交申请，具体要求见通知。
+    href: http://www.xgb.zju.edu.cn/2026/0930/c53400a3210815/page.psp
+    tags:
+      - text: 本科生资助
+        class: tag-category
+      - text: 无息借款
+        class: tag-category
+  - ddl:
+    title: 2025-2026学年计算机学院、人工智能学院本科生国家奖学金拟评选名单公示
+    detail: 本科生国家奖学金拟评选名单已公示，请相关同学查看学院通知。
+    href: http://cspo.zju.edu.cn/2026/1009/c27183a3212397/page.htm
+    tags:
+      - text: 评奖评优
+        class: tag-category
+      - text: 本科生
+        class: tag-target
   - ddl: 2026-04-02
     title: 关于申报浙江大学2025-2026学年“浙·时”梦想基金项目的通知
     detail: 官网通知见箭头
@@ -173,7 +209,7 @@ cards:
         class: tag-category
       - text: 2024，2023级
         class: tag-target  
-      - ddl: 2026-10-09
+  - ddl: 2026-10-09
     title: 关于评选本科生2026年度港澳及华侨学生奖学金、台湾学生奖学金的通知
     detail: 具体通知内容请点击右侧链接
     href: https://webplus.zju.edu.cn/_s154/2026/0914/c53397a3202578/page.psp
