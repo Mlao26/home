@@ -313,6 +313,13 @@ cards:
     tags:
       - text: 文体
         class: tag-category
+  - ddl: 2026-12-31
+    title: 安顿身心正念冥想体验
+    detail: 各位同学，秋冬学期每周四下午固定为大家开设【安顿身心正念冥想体验】，欢迎大家参与，还能加二课分～
+    href: https://mp.weixin.qq.com/s/oi-Myxu8iemdH0XTuugnsA
+    tags:
+      - text: 心理
+        class: tag-category
 ---
 
 !!! note 通知

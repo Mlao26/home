@@ -235,6 +235,13 @@ cards:
     tags:
       - text: 校园信息
         class: tag-category
+  - ddl:
+    title: 新学期计算机学院朋辈辅学正式启动
+    detail: 有需要的同学请在钉钉群中直接扫码加入各个辅导班的钉钉群。预计从下周就开始辅导啦，欢迎所有想要提升课业成绩的同学加群,让我们一起进步～
+    href: 
+    tags:
+      - text: 朋辈辅学
+        class: tag-category
 ---
 
 !!! note 通知

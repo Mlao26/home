@@ -79,6 +79,13 @@ cards:
         class: tag-category
       - text: 2022级
         class: tag-target
+  - ddl: 2026-10-17
+    title: 重要国央企等在永谦剧场门厅举行综合招聘会
+    detail: 各位同学好，今天（10月17日）13：30开始重要国央企等在永谦剧场门厅举行综合招聘会，企业名单见通知链接，欢迎同学们积极参与！
+    href: https://mp.weixin.qq.com/s/tf76nTEeMnsQItyiLDsmSw
+    tags:
+      - text: 就业
+        class: tag-category
 ---
 
 !!! note 通知
