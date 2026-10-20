@@ -242,6 +242,13 @@ cards:
     tags:
       - text: 朋辈辅学
         class: tag-category
+  - ddl: 2026-10-26
+    title: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会
+    detail: 加州大学戴维斯分校暑期科研项目（GREAT）宣讲会将于2026年10月26日（周一）12:00在线上ZOOM举办，主要面向全日制在读本科生、硕士生，毕业后意向出国深造的同学。
+    href: https://mp.weixin.qq.com/s/3QfacCurm5MMUzl7v71YsA
+    tags:
+      - text: 对外交流
+        class: tag-category
 ---
 
 !!! note 通知
